@@ -53,6 +53,20 @@ var friends = [{
         5, 
         4, 
         1],
+    name: "Howard",
+    photo: "https://the-big-bang-theory.com/images/uploads/1/rs_81898e55982e335f611.jpg",
+    scores: [
+        3,
+        3,
+        2,
+        4,
+        2,
+        2,
+        3,
+        5,
+        5,
+        1
+    ]
 }];
 
 module.exports = { friends: friends }
