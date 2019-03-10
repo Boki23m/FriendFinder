@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "This full-stack site takes in results from user's surveys, then compare their answers with those from other users. The app then displays the name and picture of the user with the best overall match. Express is used to handle routing.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boki23m/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boki23m/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Boki23m/FriendFinder#readme"
+}
