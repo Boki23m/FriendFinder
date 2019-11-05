@@ -4,4 +4,4 @@ This full-stack site takes in results from user's surveys, then compares their a
 
 Deployed on Heroku. Check it out [here](https://powerful-waters-67200.herokuapp.com/).
 
-![screenshot](app/public/Capture.jpg)
+![screenshot](app/public/Capture.JPG)
