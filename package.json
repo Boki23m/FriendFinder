@@ -4,7 +4,7 @@
   "description": "This full-stack site takes in results from user's surveys, then compare their answers with those from other users. The app then displays the name and picture of the user with the best overall match. Express is used to handle routing.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "path": "^0.12.7"
   },
   "devDependencies": {},
